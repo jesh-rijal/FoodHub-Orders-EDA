@@ -74,50 +74,57 @@ Make sure Python is added to PATH during installation.
 Open terminal or command prompt and run:
 
 ```bash
-pip install numpy pandas matplotlib seaborn notebook
-```
-
----
-
-## 3️⃣ Open Jupyter Notebook
-
-Run the following command:
-
-```bash
-jupyter notebook
-```
-
-Then open:
-
-```bash
-foodhub_order.ipynb
+pip install numpy pandas matplotlib seaborn
 ```
 
 ---
 
 # ▶️ How to Run the Project
 
-## 📥 Clone the Repository
+## 1️⃣ 💻 Open Git Bash
+
+## 2️⃣ 📥 Clone the Repository
 
 ```bash
 git clone https://github.com/jesh-rijal/FoodHub-Orders-EDA.git
 ```
 
-## 📂 Move into Project Folder
+## 3️⃣ 📂 Move into the Project Folder
 
 ```bash
 cd FoodHub-Orders-EDA
 ```
 
-## 🚀 Run the Notebook
+## 4️⃣ 📝 Open the Project in VS Code
 
 ```bash
-jupyter notebook
+code .
 ```
 
-Open the notebook and run all cells sequentially.
+## 5️⃣ 🚀 Run the Jupyter Notebook
+
+📓 Open the notebook file **`foodhub_order.ipynb`** and run all cells sequentially to reproduce the **Exploratory Data Analysis (EDA)**.
 
 ---
+
+### ✅ Expected Output
+
+- 📊 Data loading and exploration
+- 🧹 Data cleaning and preprocessing
+- 📈 Descriptive statistics and summary insights
+- 📉 Visualizations of order patterns and trends
+- 💡 Key findings from the FoodHub Orders dataset
+
+---
+
+⭐ If you found this project useful, consider giving the repository a star!
+
+
+
+
+
+
+
 
 # 📖 Detailed Notebook Explanation
 
